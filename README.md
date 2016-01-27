@@ -1,7 +1,15 @@
-Angular Fundamentals Course
-========================
+Angular Fundamentals
 
-The course is up to date
+A study of Angular fundamentals by creating an events application that allows users to view, add, update, upvote, downvote, and confirm attendance to events.
 
+## Technologies utilized:
 
-If you are on a Linux or OSX box, you may need to execute "chmod +x server.sh" in order to run the node web server, or you can execute it with "bash server.sh" from the bash shell.
+Angular
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+Node.js
